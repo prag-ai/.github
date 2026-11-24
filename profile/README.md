@@ -19,6 +19,7 @@ FDE(Forward Deployed Engineer) — 현장에 들어가 업무를 보고, 데이�
 | 저장소 | 내용 |
 |---|---|
 | [factory-graph-mcp](https://github.com/prag-ai/factory-graph-mcp) | 공장 설비에 알람이 떴을 때 어디부터 봐야 하는지 짚어 주는 MCP 서버. 설비 대장과 연결 테이블(CSV)을 읽어, AI가 전원·냉각수·압축공기를 보내는 상류 설비를 따라 올라가게 합니다. 원인을 단정하지 않고 볼 곳만 알려 줍니다. 읽기 전용, MIT 라이선스. |
+| [ai-tool-audit](https://github.com/prag-ai/ai-tool-audit) | 회사 보안 담당자가 개발자 PC의 AI 코딩 도구(Claude Code, Codex, Gemini CLI, Cursor, VS Code)와 MCP 서버 설정을 읽기만 해서 위험한 곳을 찾고, 근거 사건이 달린 보고서를 한국어·영어로 만드는 점검 도구. 네트워크를 쓰지 않아 인터넷이 막힌 내부망 PC에서도 씁니다. Apache-2.0 라이선스. |
 
 ## 블로그·문의
 
@@ -28,4 +29,4 @@ https://prag-ai.com
 
 ---
 
-**English** — prag-ai builds and teaches agentic AI, working as forward deployed engineers: we go on site, connect the data, and ship agents that run. We split human work into steps and automate it with multi-agent systems; people keep the final call, such as approval. First public project: [factory-graph-mcp](https://github.com/prag-ai/factory-graph-mcp), a read-only MCP server that helps AI trace upstream equipment when a factory alarm fires. Blog and contact: https://prag-ai.com
+**English** — prag-ai builds and teaches agentic AI, working as forward deployed engineers: we go on site, connect the data, and ship agents that run. We split human work into steps and automate it with multi-agent systems; people keep the final call, such as approval. Public projects: [factory-graph-mcp](https://github.com/prag-ai/factory-graph-mcp), a read-only MCP server that helps AI trace upstream equipment when a factory alarm fires, and [ai-tool-audit](https://github.com/prag-ai/ai-tool-audit), an offline, read-only audit of AI coding tool and MCP settings on developer machines. Blog and contact: https://prag-ai.com
