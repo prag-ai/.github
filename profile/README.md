@@ -23,9 +23,8 @@ FDE(Forward Deployed Engineer) — 현장에 들어가 업무를 보고, 데이�
 
 ## 블로그·문의
 
-AI 개발 도구를 직접 돌려 보고 결과를 적는 블로그를 운영합니다. 강의·컨설팅 문의도 이곳으로 받습니다.
-
-https://prag-ai.com
+AI 개발 도구를 직접 돌려 보고 결과를 적는 블로그를 운영합니다. [prag-ai.com](https://prag-ai.com)\
+강의·컨설팅 문의도 이곳으로 받습니다. [macro@prag-ai.com](mailto:macro@prag-ai.com)
 
 ---
 
