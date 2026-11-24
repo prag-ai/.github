@@ -21,6 +21,12 @@ FDE(Forward Deployed Engineer) — 현장에 들어가 업무를 보고, 데이�
 | [factory-graph-mcp](https://github.com/prag-ai/factory-graph-mcp) | 공장 설비에 알람이 떴을 때 어디부터 봐야 하는지 짚어 주는 MCP 서버. 설비 대장과 연결 테이블(CSV)을 읽어, AI가 전원·냉각수·압축공기를 보내는 상류 설비를 따라 올라가게 합니다. 원인을 단정하지 않고 볼 곳만 알려 줍니다. 읽기 전용, MIT 라이선스. |
 | [ai-tool-audit](https://github.com/prag-ai/ai-tool-audit) | 회사 보안 담당자가 개발자 PC의 AI 코딩 도구(Claude Code, Codex, Gemini CLI, Cursor, VS Code)와 MCP 서버 설정을 읽기만 해서 위험한 곳을 찾고, 근거 사건이 달린 보고서를 한국어·영어로 만드는 점검 도구. 네트워크를 쓰지 않아 인터넷이 막힌 내부망 PC에서도 씁니다. Apache-2.0 라이선스. |
 
+## 강의 (인프런)
+
+- [AI에게 일 잘 시키기 위한 LLM의 원리와 Pre-Training 방법](https://www.inflearn.com/course/how-llms-work-and-ho?cid=344721)
+- [AI코딩시대에 알아야할 GPU원리와 Computer Science지식](https://www.inflearn.com/course/the-principles-of-gp?cid=344256)
+- [기업 데이터유출 막기- AI 침투 에이전트를 이용한 해킹과 방어](https://www.inflearn.com/course/ai-hacking-and-defen?cid=345621) — [ai-tool-audit](https://github.com/prag-ai/ai-tool-audit)이 찾아낸 위험을 회사에서 어떻게 막을지 다룹니다.
+
 ## 블로그·문의
 
 AI 개발 도구를 직접 돌려 보고 결과를 적는 블로그를 운영합니다. [prag-ai.com](https://prag-ai.com)\
